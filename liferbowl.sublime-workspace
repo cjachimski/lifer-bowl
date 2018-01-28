@@ -1,0 +1,681 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"str",
+				"strengthening"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"f",
+				"file"
+			],
+			[
+				"arra",
+				"arraylen"
+			],
+			[
+				"re",
+				"rEReplaceNoCase\tfn. (cfscript)"
+			],
+			[
+				"cfcontent",
+				"cfsavecontent\tTag (cmfl)"
+			],
+			[
+				"struck",
+				"structKeyExists\tfn. (cfscript)"
+			],
+			[
+				"r",
+				"result\t@result"
+			],
+			[
+				"cfhttp",
+				"cfhttpparam\tTag (cmfl)"
+			],
+			[
+				"ac",
+				"action=\"delete\"\taction"
+			],
+			[
+				"arrayf",
+				"arrayFind\tfn. (cfscript)"
+			],
+			[
+				"stripWhiteSpace",
+				"stripwhitespace=\"true\"\tstripwhitespace"
+			],
+			[
+				"a",
+				"abort=\"true\"\tabort"
+			],
+			[
+				"serialize",
+				"serializeJSON"
+			],
+			[
+				"ty",
+				"type=\"string\"\ttype"
+			],
+			[
+				"serial",
+				"serializeJSON\tfn. (cfscript)"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 569,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.scss",
+			"settings":
+			{
+				"buffer_size": 1131,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Chaz/Square/Lifer Bowl/site"
+	],
+	"file_history":
+	[
+		"/Users/Chaz/Dropbox/Sites/osvcount.dev/site/_images/fl-jeep.svg",
+		"/Users/Chaz/Dropbox/Sites/osvcount.dev/site/_images/fl-fly.svg",
+		"/Users/Chaz/Dropbox/Sites/osvcount.dev/site/_files/css/climacon.scss",
+		"/Users/Chaz/Dropbox/Sites/osvcount.dev/site/_files/css/climacon-bw.scss",
+		"/Users/Chaz/Dropbox/Sites/osvcount.dev/site/_files/css/climacon.css",
+		"/Users/Chaz/Dropbox/Sites/osvcount.dev/site/_assets/css/custom.scss",
+		"/Users/Chaz/Dropbox/Sites/vectranetworks.dev/site/_files/css/main.css",
+		"/Users/Chaz/Dropbox/Sites/vectranetworks.dev/site/_files/css/main copy-min.css",
+		"/Users/Chaz/Dropbox/Sites/vectranetworks.dev/site/_files/css/chaz.css",
+		"/Users/Chaz/Dropbox/Sites/vectra.dev/site/.htaccess",
+		"/Users/Chaz/Dropbox/Sites/vectra.dev/site/.htaccesszzzzzzz",
+		"/Users/Chaz/Dropbox/Sites/vectra.dev/site/cognito.cfm",
+		"/Users/Chaz/Dropbox/Sites/braddahbarneys.dev/braddah.sublime-project",
+		"/Users/Chaz/Dropbox/Sites/fagers.dev/site/events/bachelorette-party/event.css",
+		"/Users/Chaz/Dropbox/Sites/fagers.dev/site/events/bachelorette-party/index.cfm",
+		"/Users/Chaz/Dropbox/Sites/fagers.dev/site/events/deck-party/event.css",
+		"/Users/Chaz/Square/Grey Matter/Bethany Beach Ocean Suites/site/bbos.sublime-project",
+		"/Users/Chaz/Dropbox/Sites/minimatics.dev/minimatics.sublime-project",
+		"/Users/Chaz/Dropbox/Sites/ocfishtales.dev/ocfishtales.sublime-project",
+		"/Users/Chaz/Dropbox/Sites/protrackoc.dev/bajaprotrack.sublime-project",
+		"/Users/Chaz/Dropbox/Sites/bajaprotrack.dev/site/index.html",
+		"/Users/Chaz/Dropbox/Sites/fagers.dev/site/events/winter-warmer/index.cfm",
+		"/Users/Chaz/Dropbox/Sites/bajaprotrack.dev/site/_files/css/main.css",
+		"/Users/Chaz/Dropbox/Sites/bajaprotrack.dev/site/config.codekit3",
+		"/Users/Chaz/Dropbox/Sites/bajaprotrack.dev/site/_files/js/custom.js",
+		"/Users/Chaz/Dropbox/Sites/bajaprotrack.dev/site/_template/template.cfm",
+		"/Users/Chaz/Dropbox/Sites/bajaprotrack.dev/site/index.cfm",
+		"/Users/Chaz/Desktop/04.cfm",
+		"/Users/Chaz/Dropbox/Sites/minimatics.dev/site/_files/css/main.css",
+		"/Users/Chaz/Desktop/README.md",
+		"/Users/Chaz/Desktop/02.cfm",
+		"/Users/Chaz/Dropbox/Sites/minimatics.dev/site/about-us/index.cfm",
+		"/Users/Chaz/Dropbox/Sites/jhcook.dev/jhcook.sublime-project",
+		"/Users/Chaz/Dropbox/Sites/minimatics.dev/site/_files/js/custom.js",
+		"/Users/Chaz/Dropbox/Sites/minimatics.dev/site/equipment/index.cfm",
+		"/Users/Chaz/Dropbox/Sites/minimatics.dev/site/materials-services/index.cfm",
+		"/Users/Chaz/Dropbox/Sites/bahiamarina.dev/bahiamarina.sublime-project",
+		"/Users/Chaz/Dropbox/Sites/dumsersdairyland.dev/dumsersdairyland.sublime-project",
+		"/Users/Chaz/.Trash/lineup.html",
+		"/Users/Chaz/Desktop/lineup.html",
+		"/Users/Chaz/Square/Grey Matter/Happily Ever Hitched/heh.sublime-project",
+		"/Users/Chaz/Dropbox/Sites/yoursmartpup.dev/site/rewrite.config",
+		"/Users/Chaz/Square/Grey Matter/Happily Ever Hitched/site/index.html",
+		"/Users/Chaz/Dropbox/Sites/treasurebeachrvpark.dev/treasurebeachrvpark.sublime-project",
+		"/Users/Chaz/Desktop/03.cfm",
+		"/Users/Chaz/Dropbox/Sites/murraysod.dev/site/_template/basic.cfm",
+		"/Users/Chaz/Dropbox/Sites/jhcook.dev/site/_assets/css/custom.scss",
+		"/Users/Chaz/Dropbox/Sites/jhcook.dev/site/_assets/css/custom.css",
+		"/Users/Chaz/Dropbox/Sites/yoursmartpup.dev/site/_files/css/main.scss",
+		"/Users/Chaz/Desktop/heh/03.html",
+		"/Users/Chaz/Desktop/C4XLMNOP.html",
+		"/Users/Chaz/Desktop/menu.cfm",
+		"/Users/Chaz/Desktop/template.cfm",
+		"/Users/Chaz/Dropbox/Sites/framework-bs.dev/site/css/custom.css",
+		"/Users/Chaz/Dropbox/Sites/framework-bs.dev/site/_readme.txt",
+		"/Users/Chaz/Dropbox/Sites/framework-bs.dev/site/css/variable.scss",
+		"/Users/Chaz/Dropbox/Sites/fullcitymedia.dev/site/smart-pups/03.cfm",
+		"/Users/Chaz/Dropbox/Sites/murraysod.dev/site/preview/01.cfm",
+		"/Users/Chaz/Dropbox/Sites/murraysod.dev/murraysod.sublime-project",
+		"/Users/Chaz/Dropbox/Sites/fagers.dev/fagers.sublime-project",
+		"/Users/Chaz/Dropbox/Sites/fullcitymedia.dev/site/smart-pups/01.cfm",
+		"/Users/Chaz/Dropbox/Sites/fullcitymedia.dev/site/minimatics/01.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/_scrub/shorty.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_modules/shorturl/asset.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/.htaccess",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/com/controller.cfc",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_modules/generic/asset/_com/asset.cfc",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/com/controller.cfc",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_modules/generic/asset/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/view/casestudy.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_modules/generic/assetstories/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/com/settings.backup.cfc",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/com/settings.cfc",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/view/press.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/asset/_com/asset.cfc",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/com/stringutils.cfc",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/com/base62.cfc",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/view/press-dach.cfm",
+		"/Users/Chaz/Dropbox/Sites/vectranetworks.dev/site/.htaccess",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/text-editor/edit.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/Application.cfc",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/view/video.cfm",
+		"/Users/emmet/Dropbox/Sites/trilogyreg.dev/site/panel/_files/js/iframe-auto-height.js",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/text-editor/file.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/text-editor/includes/tab.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/text-editor/image.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/NEEDS.txt",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/text-editor/preview/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_modules/generic/text-editor/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_files/js/custom.js",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/_files/js/redactor/redactor.css",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/text-singleline/edit.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/com/imageutils.cfc",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/_ajax/redactor/image-upload.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/_ajax/redactor/file-upload.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/_files/js/redactor/redactor.js",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/view/page.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/image-story/edit.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_scrub/blocks.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_template/template.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_modules/generic/navigation-bar/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_modules/generic/numbers/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/emmet.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_modules/generic/video-cta/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/video-cta/preview/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/video-story/edit.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/video-cta/edit.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_modules/generic/image-cta/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/image-cta/edit.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/image-cta/preview/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/image-list/preview/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/image-story/preview/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/text-story/edit.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/_scrub/log.txt",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/image-multicolumn-cover/preview/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_modules/generic/image-multicolumn-cover/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/image-multicolumn-cover/edit.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/builder/landing/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/_includes/breadcrumb.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/user/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/builder/_includes/nested-pages.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/_template/template.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/builder/page/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/builder/landing/layout.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/builder/page/layout.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/builder/landing/settings.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_modules/generic/blogeventsbrief/index.cfm",
+		"/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/panel/app/generic/image-multicolumn/edit.cfm"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 403.0,
+		"where_history":
+		[
+			"",
+			"*.cfm,/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/view,/Users/emmet/Dropbox/Sites/vectranetworks.dev/site/_modules",
+			"*.cfm,-*panel",
+			"*.cfm",
+			"",
+			"*.cfc",
+			"*.cfm",
+			"",
+			"<open files>",
+			"*.cfm",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"/Users/emmet/Dropbox/Sites/api.dev/site/docs,*.css",
+			"/Users/emmet/Dropbox/Sites/api.dev/site/docs",
+			"",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"alert",
+			"h2",
+			"h3",
+			"h2",
+			"alert",
+			"hr",
+			".theme-black ",
+			"theme-dark",
+			"h2",
+			"report",
+			"weather",
+			"current-",
+			"{\n",
+			"d",
+			"img",
+			"svg",
+			"logo",
+			"icon",
+			"p ",
+			"svg",
+			"#",
+			"form",
+			"span",
+			"--- ",
+			"purple",
+			"é",
+			" <sup>()</sup> ",
+			"fish",
+			"cream",
+			"creamy",
+			"lato",
+			"app",
+			"candy",
+			"bliss",
+			"haas",
+			"equip",
+			"poly",
+			"h1",
+			"banner",
+			"class=\"inside-banner\">",
+			"intro",
+			"body",
+			"icon",
+			"lead",
+			"content",
+			"intro",
+			"step3",
+			"google",
+			"content",
+			"body",
+			"max-width",
+			"ProTrack",
+			"h1",
+			"h4",
+			"</span>",
+			"</strong>",
+			"333",
+			"heading",
+			"color",
+			"padding",
+			"bold",
+			"700",
+			"url",
+			"main",
+			"strong",
+			"intro",
+			"title",
+			"intro",
+			"our",
+			"inside-banner",
+			"shadow",
+			"inside",
+			"shadow",
+			"gradient",
+			".jpg",
+			"btn",
+			"section-header",
+			" (",
+			"mater",
+			"strong",
+			"header",
+			"subnav-holder",
+			"subnav",
+			"index",
+			"h1",
+			"font-family",
+			"span",
+			"14\"",
+			"7\"",
+			"unit 5",
+			"@",
+			"lead-location",
+			"menu",
+			"menu-link",
+			"menu0lin",
+			"menu-links",
+			"location-down",
+			"location",
+			"main",
+			"chicken",
+			"chicked",
+			"platter",
+			"kiddie",
+			"orange",
+			"ice cream",
+			"16px",
+			"h2",
+			"navbar-brand",
+			"header",
+			"buttonlink",
+			"shadow",
+			"https://www.facebook.com/SunsetBeachRVResort/",
+			"strong",
+			"responsive",
+			"hidden-sm-down",
+			"navbar",
+			"main",
+			"F05F40",
+			"section",
+			"header",
+			"Etc",
+			"content",
+			"contact",
+			"width: 120px;",
+			"product-grid",
+			"food",
+			"content",
+			"page-tile"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&eacute;",
+			"class=\"inside-banner cp-both\">",
+			"Pro Track",
+			"lead-location2",
+			"https://www.facebook.com/SunsetBeachRVResort/app/273970339320628/",
+			"da0330",
+			"page-title",
+			"Copyright 2017 ",
+			"2017",
+			"&copy;",
+			"over 10 courses.",
+			"located in the \n          historic </span><b>Town of Berlin</b>, <span style=\"font-weight: 400\">\n          Worcester County, Maryland</span>&nbsp; <b>Eight miles \n          from Ocean City &amp; Assateague Island National Seashore</b></font></h1>",
+			"content=\"Bed and Breakfast located eight miles from Ocean City and Assateague Island National Seashore\"",
+			"<script>window.jQuery || document.write('<script src=\"../_files/jquery.min.js\"><\\/script>')</script>",
+			"<script src=\"../_files/ie10-viewport-bug-workaround.js\"></script>",
+			"<script src=\"../_files/ie-emulation-modes-warning.js\"></script>",
+			"<link href=\"../_files/ie10-viewport-bug-workaround.css\" rel=\"stylesheet\">",
+			"<script src=\"/bootstrap/javascripts/bootstrap.min.js\"></script>",
+			"<link href=\"/css/custom.css\" rel=\"stylesheet\">",
+			"<strong>Strawberries & Cream Body Wrap</strong> 50mins ",
+			"<strong>Strawberries & Cream Pedicure</strong> 60mins ",
+			"<strong>Strawberries & Cream Manicure</strong> 45mins ",
+			"<strong>Strawberries & Cream Facial</strong> 50mins ",
+			"videosubheading",
+			"videoheading",
+			"ctaheading",
+			"ctasubheading",
+			"imagesubheading",
+			"imageheading",
+			"items",
+			"panel/app/builder/page",
+			"generic",
+			"",
+			"fn-sort-holder",
+			"eeeeee",
+			"vectranetworks.com",
+			"solid-right-padding",
+			"solid-left-padding",
+			"solid-6040-right",
+			"solid-6040-left",
+			"solid-4060-left",
+			"solid-4060-right",
+			"solid-6040-left",
+			"solid-left",
+			"solid-6040",
+			"split-6040",
+			"split-5050",
+			"split-right",
+			"split-left",
+			"split-7525",
+			"<li class=\"clearfix\">",
+			"<details class=\"secription\">",
+			"<summary class=\"title\">",
+			"image-thumb"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								388
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1080,
+								1080
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "liferbowl.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
